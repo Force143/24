@@ -1,3 +1,3 @@
-# 243
+# 24
 
-Powers of 3 game.
+Changed from 24 to 12.
