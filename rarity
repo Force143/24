@@ -1,0 +1,58 @@
+TILES
+
+2 realm - 1 in 5
+
+4 is 1 in 6 2s
+8 is 1 in 100 4s
+16 is 1 in 1200 8s ( 3.6m )
+
+
+3 realm - 1 in 15
+6 is 1 in 25 3s
+12 is 1 in 200 6s ( 75k )
+24 is 1 in 40 12s ( 3m )
+9 is 1 in 500 3-24s
+18 is 1 in 800 9s ( 6m )
+
+
+5 realm - 1 in 100
+10 is 1 in 150 5s
+
+
+50 realm - 1 in 500
+100 is 1 in 50 50s ( 25k )
+200 is 1 in 50 100s ( 1.25m )
+
+
+7 realm - 1 in 2000
+
+11 realm - 1 in 50000
+
+13 realm - 1 in 1000000 ( 1m )
+
+80 realm - 1 in 2000000 ( 2m )
+
+
+
+TILES INCREASING IN RARITY
+
+1
+2
+3
+4
+5
+6
+50
+7
+8
+9
+10
+100
+11
+12
+13
+200
+80
+24
+16
+18
