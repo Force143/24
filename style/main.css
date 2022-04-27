@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
+  background: #eff1fe;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -375,15 +375,24 @@ hr {
   .tile.tile-10 .tile-inner {
     color: #000000;
     background: #6a6969; }
+  .tile.tile-11 .tile-inner {
+    color: #000000;
+    background: #0c888a; }
   .tile.tile-12 .tile-inner {
     color: #000000;
     background: #5f0404; }
+  .tile.tile-13 .tile-inner {
+    color: #000000;
+    background: #e80000; }
   .tile.tile-14 .tile-inner {
     color: #000000;
     background: #816018; }
   .tile.tile-16 .tile-inner {
     color: #000000;
     background: #04455f; }
+  .tile.tile-18 .tile-inner {
+    color: #000000;
+    background: #d1ff00; }
   .tile.tile-20 .tile-inner {
     color: #000000;
     background: #353535; }
@@ -411,6 +420,13 @@ hr {
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-100 .tile-inner {
+        font-size: 25px; } }
+  .tile.tile-200 .tile-inner {
+    color: #cf5d03;
+    background: #beee8a;
+    font-size: 45px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-200 .tile-inner {
         font-size: 25px; } }
   .tile.tile-128 .tile-inner {
     color: #000000;
