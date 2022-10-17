@@ -5,34 +5,49 @@ TILES
 4 is 1 in 6 2s
 8 is 1 in 100 4s
 16 is 1 in 1200 8s ( 3.6m )
+32 is 1 in 60 16s ( 216m )
 
 
 3 realm - 1 in 15
 6 is 1 in 25 3s
 12 is 1 in 200 6s ( 75k )
-24 is 1 in 40 12s ( 3m )
-9 is 1 in 500 3-24s
+24 is 1 in 400 12s ( 30m )
+48 is 1 in 50 24s ( 1.5b )
+9 is 1 in 500 3-48s
 18 is 1 in 800 9s ( 6m )
 
 
 5 realm - 1 in 100
 10 is 1 in 150 5s
+20 is 1 in 800 10s ( 12m )
+15 is 1 in 25000 5-20s ( 2.5m )
 
 
 50 realm - 1 in 500
 100 is 1 in 50 50s ( 25k )
 200 is 1 in 50 100s ( 1.25m )
+400 is 1 in 50 200s ( 62.5m )
 
 
 7 realm - 1 in 2000
+14 is 1 in 540 7s ( 1.08m )
+21 is 1 in 7500 7-14s ( 15m )
 
 11 realm - 1 in 50000
+22 is 1 in 400 11s ( 20m )
 
 13 realm - 1 in 1000000 ( 1m )
 
 80 realm - 1 in 2000000 ( 2m )
+90 is 1 in 25 80s ( 50m )
 
+17 realm - 1 in 4500000 ( 4.5m )
 
+19 realm - 1 in 10000000 ( 10m )
+
+23 realm - 1 in 27000000 ( 27m )
+
+99 realm - 1 in 9900000000 ( 9.9b )
 
 TILES INCREASING IN RARITY
 
@@ -51,8 +66,21 @@ TILES INCREASING IN RARITY
 11
 12
 13
+14
 200
 80
-24
+15
 16
+17
 18
+19
+20
+21
+22
+23
+24
+90
+400
+32
+48
+99
