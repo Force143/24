@@ -136,7 +136,7 @@ GameManager.prototype.move = function (direction) {
         }
         // Only one merger per row traversal?
         if (next && next.value === tile.value && next2 && next2.value === tile.value && !next.mergedFrom && next != next2) {
-          var merged = new Tile(pos2.next, tile.value * 2);
+          var merged = new Tile(pos2.next, tile.value * 1);
           merged.mergedFrom = [next2, next, tile];
 	tile.merged = true;
 	next.merged = true;
