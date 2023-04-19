@@ -346,11 +346,11 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 40px; }
-  .tile.tile-? .tile-inner {
-    color: #000000;
-    background: #00ffb6; 
+  .tile.tile-☽ .tile-inner {
+    color: #f5f5fb;
+    background: #000064; 
     font-size: 55px; }
-  .tile.tile-# .tile-inner {
+  .tile.tile-½ .tile-inner {
     color: #000000;
     background: #9dc77f; 
     font-size: 55px; }
@@ -358,10 +358,10 @@ hr {
     color: #fcd212;
     background: #927707; 
     font-size: 55px; }
-  .tile.tile-+ .tile-inner {
+  .tile.tile-♡ .tile-inner {
     color: #fffffd;
-    background: #434cad; 
-    font-size: 62px; }
+    background: #ff63af; 
+    font-size: 55px; }
   .tile.tile--3 .tile-inner {
     color: #000000;
     background: #bafbbf; 
