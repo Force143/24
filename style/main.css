@@ -386,6 +386,10 @@ hr {
     color: #000000;
     background: #30a006; 
     font-size: 55px; }
+  .tile.tile-101 .tile-inner {
+    color: #000000;
+    background: #30a006; 
+    font-size: 40px; }
   .tile.tile-2 .tile-inner {
     color: #000000;
     background: #78a006; 
