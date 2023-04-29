@@ -1,9 +1,13 @@
 TILES
 
-0 is 499 in 500 -2s
+-2 is 9 in 10 -3s
+-1 is 9 in 10 -2s
+0 is 49 in 50 -1s
 1 is 99999 in 100000 0s
-2 realm - 1 in 5
 
+Blank 1 is 1 in 1000000000 1s ( 1b )
+
+2 realm - 1 in 5
 4 is 1 in 6 2s
 8 is 1 in 100 4s
 16 is 1 in 1200 8s ( 3.6m )
@@ -41,9 +45,13 @@ TILES
 11 realm - 1 in 50000
 22 is 1 in 400 11s ( 20m )
 
+½ realm - 1 in 250000 ( 250k )
+
 12.5 realm - 1 in 400000 ( 400k )
 
 75 realm - 1 in 500000 ( 500k )
+
+♡ realm - 1 in 750000 ( 750k )
 
 13 realm - 1 in 1000000 ( 1m )
 
@@ -57,6 +65,14 @@ TILES
 82 realm - 1 in 25000000 ( 25m )
 
 23 realm - 1 in 27000000 ( 27m )
+
+★ realm - 1 in 40000000 ( 40m )
+
+94 realm - 1 in 80000000 ( 80m )
+
+47 realm - 1 in 175000000 ( 175m )
+
+☽ realm - 1 in 400000000 ( 400m )
 
 98 realm - 1 in 800000000 ( 800m )
 
@@ -81,8 +97,10 @@ TILES INCREASING IN RARITY
 12
 0
 70
+½
 12.5
 75
+♡
 13
 14
 200
@@ -91,6 +109,7 @@ TILES INCREASING IN RARITY
 16
 17
 18
+-1
 19
 20
 21
@@ -98,10 +117,15 @@ TILES INCREASING IN RARITY
 82
 23
 24
+★
 90
 -2
 400
 32
+94
+47
 48
+☽
 98
+Blank 1
 99
