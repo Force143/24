@@ -354,6 +354,10 @@ hr {
     color: #000000;
     background: #9dc77f; 
     font-size: 55px; }
+  .tile.tile-⅓ .tile-inner {
+    color: #000000;
+    background: #7fc786; 
+    font-size: 55px; }
   .tile.tile-★ .tile-inner {
     color: #fcd212;
     background: #927707; 
@@ -512,15 +516,15 @@ hr {
     font-size: 55px; }
   .tile.tile-31 .tile-inner {
     color: #000000;
-    background: #ff0061; 
-    font-size: 55px; }
-  .tile.tile-33 .tile-inner {
-    color: #000000;
-    background: #0c5c8a; 
+    background: #c64e7c; 
     font-size: 55px; }
   .tile.tile-32 .tile-inner {
     color: #000000;
     background: #1e034a; 
+    font-size: 55px; }
+  .tile.tile-33 .tile-inner {
+    color: #000000;
+    background: #0c5c8a; 
     font-size: 55px; }
   .tile.tile-34 .tile-inner {
     color: #000000;
@@ -536,11 +540,11 @@ hr {
     font-size: 55px; }
   .tile.tile-37 .tile-inner {
     color: #000000;
-    background: #ffc500;
+    background: #ffbaba;
     font-size: 55px; }
   .tile.tile-38 .tile-inner {
     color: #000000;
-    background: #002ab9; 
+    background: #1700d7; 
     font-size: 55px; }
   .tile.tile-39 .tile-inner {
     color: #000000;
@@ -552,11 +556,11 @@ hr {
     font-size: 55px; }
   .tile.tile-41 .tile-inner {
     color: #000000;
-    background: #00ffc5; 
+    background: #00ffa2; 
     font-size: 55px; }
   .tile.tile-42 .tile-inner {
     color: #000000;
-    background: #50240e; 
+    background: #341100; 
     font-size: 55px; }
   .tile.tile-43 .tile-inner {
     color: #000000;
@@ -564,7 +568,7 @@ hr {
     font-size: 55px; }
   .tile.tile-44 .tile-inner {
     color: #000000;
-    background: #0c8a29; 
+    background: #; 
     font-size: 55px; }
   .tile.tile-45 .tile-inner {
     color: #000000;
@@ -584,7 +588,7 @@ hr {
     font-size: 55px; }
   .tile.tile-49 .tile-inner {
     color: #000000;
-    background: #b64705; 
+    background: #ab4000; 
     font-size: 55px; }
   .tile.tile-60 .tile-inner {
     color: #f8f85b;
@@ -629,6 +633,10 @@ hr {
   .tile.tile-94 .tile-inner {
     color: #fbf540;
     background: #0b007c; 
+    font-size: 55px; }
+  .tile.tile-95 .tile-inner {
+    color: #fbd640;
+    background: #007d19; 
     font-size: 55px; }
   .tile.tile-98 .tile-inner {
     color: #fecb5e;
