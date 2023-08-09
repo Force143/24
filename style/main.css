@@ -695,8 +695,8 @@ hr {
     background: #585db6; 
     font-size: 55px; }
   .tile.tile-85 .tile-inner {
-    color: #00720e;
-    background: #e17efe; 
+    color: #8af2ce;
+    background: #003006; 
     font-size: 55px; }
   .tile.tile-86 .tile-inner {
     color: #0029da;
@@ -704,11 +704,11 @@ hr {
     font-size: 55px; }
   .tile.tile-87 .tile-inner {
     color: #d3ad0c;
-    background: #35627a; 
+    background: #28576f; 
     font-size: 55px; }
   .tile.tile-88 .tile-inner {
-    color: #ffb147;
-    background: #25cec1; 
+    color: #ffc1a4;
+    background: #24c2b6; 
     font-size: 55px; }
   .tile.tile-89 .tile-inner {
     color: #01340b;
@@ -763,7 +763,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-130 .tile-inner {
     color: #6750f9;
-    background: #e9dbfd;
+    background: #ebc6fd;
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-130 .tile-inner {
