@@ -356,7 +356,7 @@ hr {
     font-size: 55px; }
   .tile.tile-¼ .tile-inner {
     color: #000000;
-    background: #7fc783; 
+    background: #658052; 
     font-size: 55px; }
   .tile.tile-¾ .tile-inner {
     color: #000000;
@@ -373,6 +373,10 @@ hr {
   .tile.tile-➜ .tile-inner {
     color: #2ce643;
     background: #479751; 
+    font-size: 55px; }
+  .tile.tile--5 .tile-inner {
+    color: #000000;
+    background: #ffffe2; 
     font-size: 55px; }
   .tile.tile--4 .tile-inner {
     color: #000000;
@@ -755,8 +759,8 @@ hr {
     background: #666666; 
     font-size: 55px; }
   .tile.tile-89 .tile-inner {
-    color: #01340b;
-    background: #a7c100; 
+    color: #cdf16c;
+    background: #5eb225; 
     font-size: 55px; }
   .tile.tile-90 .tile-inner {
     color: #ffffff;
